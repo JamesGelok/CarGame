@@ -1,3 +1,3 @@
 # CarGame
 
-we'll add fancier readme shit later.
+we'll add fancier readme stuff later.
